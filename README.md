@@ -11,14 +11,14 @@ Submitted by: **Osaze Imohe**
 
 The following **functionality** is completed:
 
-- [ ] ** Live data is loaded from the NY Times API**
-- [ ] ** Books are displayed using a RecyclerView**
-- [ ] **Book cover images are downloaded and displayed using Glide**
+- [x] ** Live data is loaded from the NY Times API**
+- [x] ** Books are displayed using a RecyclerView**
+- [x] **Book cover images are downloaded and displayed using Glide**
 
 
 The following **additional** features are implemented:
-- [ ] View elements are styled in the .xml files
-- [ ] The "Buy" button successfully opens the page on Amazon
+- [x] View elements are styled in the .xml files
+- [x] The "Buy" button successfully opens the page on Amazon
 
 
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='BestSeller.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='bestSeller.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -38,8 +38,6 @@ GIF created with ...
 
 ## Notes
 started code implemented from: https://github.com/codepath/and102-lab3-starter
-
-Describe any challenges encountered while building the app.
 
 ## License
 
